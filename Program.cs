@@ -21,7 +21,7 @@ namespace Project_3B
                 {
                     Console.WriteLine("Element - {0}", i); //shows elements of array 
                 }
-            Console.WriteLine("Press any key to exit the program.");
+            Console.WriteLine("Press any key to exit the program...");
             Console.ReadKey(true);
 
             }//end try
