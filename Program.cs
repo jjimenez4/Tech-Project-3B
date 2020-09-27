@@ -1,4 +1,9 @@
-﻿using System;
+﻿//Jennifer Jimenez
+//Project 3B
+//Created a program to show an array of a length of 25
+
+
+using System;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 
