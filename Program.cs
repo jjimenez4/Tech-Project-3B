@@ -21,7 +21,7 @@ namespace Project_3B
 
             try
             {
-                for (i=0; i<=25; i++)
+                for (i=1; i<=25; i++)
                 {
                     Console.WriteLine("Element - {0}", i); //shows elements of array 
                 }
